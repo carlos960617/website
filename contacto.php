@@ -700,6 +700,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
+                        <a href="https://www.microsoft.com/es-es/store/b/sale?&ef_id=Cj0KCQiAtJeNBhCVARIsANJUJ2Gtdh5hDkUoPJ5ySP87JJzr9lFyv_X5rlHoCyCdjQeBdm3fmAkFlewaAj8JEALw_wcB:G:s&s_kwcid=AL!4249!3!507887122969!e!!g!!microsoft&ef_id=Cj0KCQiAtJeNBhCVARIsANJUJ2Gtdh5hDkUoPJ5ySP87JJzr9lFyv_X5rlHoCyCdjQeBdm3fmAkFlewaAj8JEALw_wcB:G:s&OCID=AID2200063_SEM_Cj0KCQiAtJeNBhCVARIsANJUJ2Gtdh5hDkUoPJ5ySP87JJzr9lFyv_X5rlHoCyCdjQeBdm3fmAkFlewaAj8JEALw_wcB:G:s&gclid=Cj0KCQiAtJeNBhCVARIsANJUJ2Gtdh5hDkUoPJ5ySP87JJzr9lFyv_X5rlHoCyCdjQeBdm3fmAkFlewaAj8JEALw_wcB">Enlace a Microsoft</a>
                         <span>Copyright &copy; Your Website 2021</span>
                     </div>
                 </div>
