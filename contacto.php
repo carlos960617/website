@@ -35,7 +35,7 @@
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">Panel de Control <sup>V 2</sup></div>
+                <div class="sidebar-brand-text mx-3">Contacto <sup></sup></div>
             </a>
 
             <!-- Divider -->
@@ -104,7 +104,7 @@
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages"
                     aria-expanded="true" aria-controls="collapsePages">
                     <i class="fas fa-fw fa-folder"></i>
-                    <span>Paginas</span>
+                    <span>Pages</span>
                 </a>
                 <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
@@ -132,12 +132,6 @@
                 <a class="nav-link" href="tables.html">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Tablas</span></a>
-            </li>
-
-            <li class="nav-item">
-                <a class="nav-link" href="contacto.php">
-                    <i class="fas fa-fw fa-table"></i>
-                    <span>Contacto</span></a>
             </li>
 
             <!-- Divider -->
@@ -373,7 +367,7 @@
 
                     <!-- Page Heading -->
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
-                        <h1 class="h3 mb-0 text-gray-800">Tablon</h1>
+                        <h1 class="h3 mb-0 text-gray-800">CONTACTO</h1>
                         <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i
                                 class="fas fa-download fa-sm text-white-50"></i> Generar Informe</a>
                     </div>
