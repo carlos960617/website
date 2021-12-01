@@ -163,6 +163,7 @@
 
             <!-- Main Content -->
             <div id="content">
+                
 
                 <!-- Topbar -->
                 <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
@@ -190,6 +191,15 @@
                     <ul class="navbar-nav ml-auto">
 
                         <!-- Nav Item - Search Dropdown (Visible Only XS) -->
+                        <li style="padding-top=40px;">
+                        <p style="padding-top:20px;padding-right:200px;display:inline-block;">
+                    <?php
+                    echo "Hoy es " . date("d/m/Y") . "<br>";
+
+                    ?>
+                </p>
+
+                        </li>
                         <li class="nav-item dropdown no-arrow d-sm-none">
                             <a class="nav-link dropdown-toggle" href="#" id="searchDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
